@@ -1,0 +1,212 @@
+D:\QLBV\QLBV\QLBV\bin\Debug\QLBV.exe.config
+D:\QLBV\QLBV\QLBV\bin\Debug\QLBV.exe
+D:\QLBV\QLBV\QLBV\bin\Debug\QLBV.pdb
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.csprojResolveAssemblyReference.cache
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.frmMain.resources
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.Properties.Resources.resources
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.csproj.GenerateResource.Cache
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.exe
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.pdb
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\bin\Debug\QLBV.exe.config
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\obj\Debug\QLBV.exe
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\obj\Debug\QLBV.pdb
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\bin\Debug\QLBV.exe
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\bin\Debug\QLBV.pdb
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\obj\Debug\QLBV.csprojResolveAssemblyReference.cache
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\obj\Debug\QLBV.frmMain.resources
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\obj\Debug\QLBV.Properties.Resources.resources
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\obj\Debug\QLBV.csproj.GenerateResource.Cache
+C:\Users\TIENCANH\Desktop\prj_ql2020\QLBV\obj\Debug\QLBV.LogIn.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\bin\Debug\QLBV.exe.config
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.exe
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.pdb
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.csprojResolveAssemblyReference.cache
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.LogIn.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.Properties.Resources.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.csproj.GenerateResource.Cache
+C:\Users\TIENCANH\Desktop\New folder\QLBV\bin\Debug\QLBV.exe
+C:\Users\TIENCANH\Desktop\New folder\QLBV\bin\Debug\QLBV.pdb
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.frmMainForm.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.test.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.frmChildFormBS.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.frmChildFormHT.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.frmChildFormKhac.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.frmcoBHYT.resources
+C:\Users\TIENCANH\Desktop\New folder\QLBV\obj\Debug\QLBV.frmkoBHYT.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\bin\Debug\QLBV.exe.config
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.exe
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.pdb
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\bin\Debug\QLBV.exe
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\bin\Debug\QLBV.pdb
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmChildFormBS.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmChildFormHT.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmChildFormKhac.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmcoBHYT.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmkoBHYT.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.LogIn.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmMainForm.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.Properties.Resources.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.test.resources
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.csproj.GenerateResource.Cache
+C:\Users\admin\OneDrive\Máy tính\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmChildFormKCB.resources
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\bin\Debug\QLBV.exe.config
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.exe
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.pdb
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\bin\Debug\QLBV.exe
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\bin\Debug\QLBV.pdb
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.csprojResolveAssemblyReference.cache
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmChildFormBS.resources
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmChildFormHT.resources
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmChildFormKhac.resources
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmcoBHYT.resources
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmChildFormKCB.resources
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmkoBHYT.resources
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.LogIn.resources
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.frmMainForm.resources
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.Properties.Resources.resources
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.test.resources
+C:\Users\TIENCANH\Desktop\chi_dung_de_pull-push\QLBV\obj\Debug\QLBV.csproj.GenerateResource.Cache
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\QLBV.exe.config
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.exe
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.pdb
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\QLBV.exe
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\QLBV.pdb
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.csprojResolveAssemblyReference.cache
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.frmChildFormBS.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.frmChildFormHT.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.frmChildFormKhac.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.frmcoBHYT.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.frmChildFormKCB.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.frmkoBHYT.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.LogIn.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.frmMainForm.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.Properties.Resources.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.csproj.GenerateResource.Cache
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.ChildformCTKCB.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.ChildformHD.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.ChildFormDV.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\FlashControlV71.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\bin\Debug\stdole.dll
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.RPT.NhanVien_RPT.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.RPT.BenhNhan_RPT.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.RPT.KhamChuaBenh_RPT.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.RPT.HoaDonDichVu_RPT.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.RPT.TomTatBenhAn_RPT.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.ChildformBC.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.ChildformListHD.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.RPT.DichVu_RPT.resources
+C:\Users\TIENCANH\Desktop\dự trù\QLBV\obj\Debug\QLBV.RPT.DoanhThu_RPT.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\QLBV.exe.config
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.exe
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.pdb
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\QLBV.exe
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\QLBV.pdb
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\FlashControlV71.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\bin\Debug\stdole.dll
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.csprojResolveAssemblyReference.cache
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.ChildformBC.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.frmChildFormBS.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.ChildformCTKCB.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.ChildFormDV.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.ChildformHD.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.frmChildFormHT.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.frmChildFormKhac.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.ChildformListHD.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.frmcoBHYT.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.frmChildFormKCB.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.frmkoBHYT.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.LogIn.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.frmMainForm.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.Properties.Resources.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.RPT.DichVu_RPT.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.RPT.DoanhThu_RPT.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.RPT.HoaDonDichVu_RPT.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.RPT.BenhNhan_RPT.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.RPT.KhamChuaBenh_RPT.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.RPT.NhanVien_RPT.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.RPT.TomTatBenhAn_RPT.resources
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.csproj.GenerateResource.Cache
+C:\Users\TIENCANH\Desktop\thuyết trình\QLBV\obj\Debug\QLBV.TroGiup.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\QLBV.exe.config
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.exe
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.pdb
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.csprojResolveAssemblyReference.cache
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.ChildformBC.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.frmChildFormBS.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.ChildformCTKCB.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.ChildFormDV.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.ChildformHD.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.frmChildFormHT.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.frmChildFormKhac.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.ChildformListHD.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.frmcoBHYT.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.frmChildFormKCB.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.frmkoBHYT.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.LogIn.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.frmMainForm.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.Properties.Resources.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.RPT.DichVu_RPT.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.RPT.DoanhThu_RPT.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.RPT.HoaDonDichVu_RPT.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.RPT.BenhNhan_RPT.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.RPT.KhamChuaBenh_RPT.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.RPT.NhanVien_RPT.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.RPT.TomTatBenhAn_RPT.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.TroGiup.resources
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\obj\Debug\QLBV.csproj.GenerateResource.Cache
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\QLBV.exe
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\QLBV.pdb
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\CrystalDecisions.Shared.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\FlashControlV71.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\ShockwaveFlashObjects.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Documents\2019_2020_ki2\Phát triển các ứng dụng trong quản lý\Ứng dụng thuyết trình\thuyết trình\QLBV\bin\Debug\stdole.dll
